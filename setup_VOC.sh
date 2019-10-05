@@ -1,5 +1,5 @@
 #!/bin/bash
-pip install yacs tqdm opencv-python vizer tensorboadX
+pip install yacs tqdm opencv-python vizer tensorboardX
 
 mkdir datasets
 cd datasets
